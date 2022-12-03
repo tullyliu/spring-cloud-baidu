@@ -14,7 +14,7 @@
         <netty.version>4.1.82.Final</netty.version>
         <protostuff.version>1.8.0</protostuff.version>
         <common-pool2.verison>2.5.0</common-pool2.verison>
-        <feign-spring4.version>10.8</feign-spring4.version>
+        <feign-spring4.version>12.1</feign-spring4.version>
         <spring-webmvc.version>5.0.11.RELEASE</spring-webmvc.version>
         <servlet-api.version>3.1.0</servlet-api.version>
         <jackson.version>2.11.2</jackson.version>
